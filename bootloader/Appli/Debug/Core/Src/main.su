@@ -1,0 +1,6 @@
+../Core/Src/main.c:73:5:main	24	static,ignoring_inline_asm
+../Core/Src/main.c:169:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:217:13:MX_XSPI1_Init	24	static
+../Core/Src/main.c:267:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:292:6:BSP_PB_Callback	16	static
+../Core/Src/main.c:304:6:Error_Handler	4	static,ignoring_inline_asm

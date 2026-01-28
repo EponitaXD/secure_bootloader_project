@@ -1,0 +1,2 @@
+/home/maria/STM32CubeIDE/workspace_2.0.0/bootloader/Middlewares/ST/STM32_ExtMem_Loader/core/systick_management.c:44:19:HAL_InitTick	2
+/home/maria/STM32CubeIDE/workspace_2.0.0/bootloader/Middlewares/ST/STM32_ExtMem_Loader/core/systick_management.c:66:10:HAL_GetTick	2
